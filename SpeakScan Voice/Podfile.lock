@@ -1,0 +1,24 @@
+PODS:
+  - FrostedSidebar (1.0.0)
+  - FSPagerView (0.8.3)
+  - lottie-ios (4.5.0)
+
+DEPENDENCIES:
+  - FrostedSidebar
+  - FSPagerView
+  - lottie-ios
+
+SPEC REPOS:
+  trunk:
+    - FrostedSidebar
+    - FSPagerView
+    - lottie-ios
+
+SPEC CHECKSUMS:
+  FrostedSidebar: f86c6843cabd5d456f9234afb6eea22a7512532f
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  lottie-ios: a881093fab623c467d3bce374367755c272bdd59
+
+PODFILE CHECKSUM: 711bf382cc2f89e2ff7258e0e435929aca48ed1e
+
+COCOAPODS: 1.15.2
